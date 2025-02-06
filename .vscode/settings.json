@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hrushi/Desktop/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/rosws/install/bot_control/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/ros2_sw/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/ros2_sw/install/my_service_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hrushi/Desktop/anvrit_ws/install/odometry_generator/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/anvrit_ws/install/anvrit_navigation/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/rosws/install/bot_control/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/ros2_sw/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/hrushi/Desktop/ros2_sw/install/my_service_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

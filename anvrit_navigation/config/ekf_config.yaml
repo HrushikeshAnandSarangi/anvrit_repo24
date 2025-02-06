@@ -1,0 +1,5 @@
+frequency: 50
+sensor_timeout: 0.1
+two_d_mode: true
+odom0: /gazebo/robot/odometry
+imu0: /gazebo/robot/imu
